@@ -1,0 +1,5 @@
+This is sample introduction for my website. My website is about dancing application that is dancing reminder step. 
+I add some new features for the application like people can find dance teacher.
+This will help people in polishing their hobbies without going anywhere.
+In this busy world people can do their dancing activity at any time whenever 
+they are free. 
